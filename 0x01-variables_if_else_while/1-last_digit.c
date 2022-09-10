@@ -2,9 +2,8 @@
 #include <time.h>
 #include <stdlib.h>
 
-/*
- * main - to check fot last digit
- * 
+/**
+ * main - to check for last digit
  * Return: 0
  */
 int main(void)
