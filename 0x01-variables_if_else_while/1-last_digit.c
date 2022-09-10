@@ -3,7 +3,8 @@
 #include <stdlib.h>
 
 /*
- * main - function to check fot last digit
+ * main - to check fot last digit
+ * 
  * Return: 0
  */
 int main(void)
