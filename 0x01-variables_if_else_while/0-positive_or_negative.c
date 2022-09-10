@@ -4,7 +4,7 @@
 
 
 /*
- * main - entry point
+ * main- entry point
  * Description: Assigns a random number and prints a result
  * Return: 0
  */
