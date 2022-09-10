@@ -5,7 +5,7 @@
 
 /*
  * main - entry point
- * Assigned a random number and prints a result
+ * Description: Assigns a random number and prints a result
  * Return: 0
  */
 
