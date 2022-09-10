@@ -5,6 +5,7 @@
 
 /*
  * main - entry point
+ * Assigned a random number and prints a result
  * Return: 0
  */
 
