@@ -8,7 +8,6 @@
  * Description: Assigns a random number and prints a result
  * Return: 0
  */
-
 int main(void)
 {
 	int n;
