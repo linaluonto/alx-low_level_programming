@@ -3,8 +3,7 @@
 #include <stdlib.h>
 
 /*
- * main - Entry point
- * Description: Checks for last digit 
+ * main - function to check fot last digit
  * Return: 0
  */
 int main(void)
